@@ -1,3 +1,4 @@
+% Generalized Eigenvalue Decomposition
 function [U,D] = gevd(Cx , Cy)
 
 % U' Cx U = I
